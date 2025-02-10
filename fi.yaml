@@ -241,6 +241,7 @@ Translations:
   about.glas42.description: "Navigaatio ohjaus, liikennevalojen tunnistus, ETS2LA Lite, 'osaomistaja'"
   about.cloud.description: "Linux & Unix tuki, erilaisia parannuksia ja korjauksia"
   about.dyldev.description: "Objektien tunnistuksen AI mallit ja kehitys, erilaisia parannuksia ja korjauksia"
+  about.roccovax.description: "ETS2LA pelipuolen SDKn kehittäjä. Ajoneuvot, liikennevalot, kameran data and muuta suoraan pelistä."
   about.truckersmudgeon.description: "Pelien datan keräys ja prosessointi"
   about.whytrevorwhy.description: "Auttoi 'Navigoi ETS2LA:lla' ja 'Kartta' laajennuksien kanssa."
   about.mimi89999.description: "scs-sdk-controller kehittäjä"

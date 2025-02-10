@@ -245,6 +245,7 @@ Translations:
   about.glas42.description: "Navigation Detection, Traffic Light Detection, ETS2LA Lite, 'co-owner'"
   about.cloud.description: "Linux & Unix Port, various improvements and bug fixes"
   about.dyldev.description: "Various additions and improvements, Object Detection AI models & development"
+  about.roccovax.description: "ETS2LA game-side SDK developer. Vehicles, Traffic Lights, Camera data and more direct from the game."
   about.truckersmudgeon.description: "Game data extraction and processing"
   about.whytrevorwhy.description: "Help with Navigate on ETS2LA & Map"
   about.mimi89999.description: "scs-sdk-controller developer"
