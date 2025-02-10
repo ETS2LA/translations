@@ -245,6 +245,7 @@ Translations:
   about.glas42.description: "导航检测、交通信号灯检测、ETS2LA Lite、“共同拥有者”"
   about.cloud.description: "Linux 和 Unix 适配，各种改进和错误修复"
   about.dyldev.description: "各种添加和改进、物体检测 AI 模型和开发"
+  about.roccovax.description: "ETS2LA 游戏端 SDK 开发者。实现了直接获取游戏内的车辆数据、交通信号灯数据、摄像头数据等实时信息。"
   about.truckersmudgeon.description: "游戏数据提取与处理"
   about.whytrevorwhy.description: "协助开发地图插件与导航功能"
   about.mimi89999.description: "scs-sdk-controller 开发人员"
