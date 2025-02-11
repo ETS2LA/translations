@@ -245,6 +245,7 @@ Translations:
   about.glas42.description: "導航辨識、紅綠燈辨識、ETS2LA Lite，共同擁有者"
   about.cloud.description: "Linux & Unix 移植，各種改進與修復錯誤"
   about.dyldev.description: "多項改進與功能新增、物體辨識 AI 模型與開發"
+  about.roccovax.description: "ETS2LA 遊戲端 SDK 開發者，提供車輛、紅綠燈、攝影機數據等直接來自遊戲的資料。"
   about.whytrevorwhy.description: "協助製作地圖插件與導航功能"
   about.truckersmudgeon.description: "遊戲數據取得與處理"
   about.mimi89999.description: "scs-sdk-controller 開發者"
