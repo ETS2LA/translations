@@ -339,7 +339,7 @@ Translations:
   map.settings.4.title: "Internal Visualisation"
   map.settings.5.name: "Zoom"
   map.settings.5.description: "Controls the zoom level of the internal visualisation."
-  map.settings.6.name: "Enable"
+  map.settings.6.name: "Enable Internal Visualisation"
   map.settings.6.description: "Whether to render the internal visualisation of the map. Useful if you are not sending the external data."
   map.settings.7.title: "External Visualisation"
   map.settings.8.name: "Render Distance"
