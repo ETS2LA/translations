@@ -238,7 +238,7 @@ Translations:
   about.statistics.users_online: "当前在线用户:"
   about.statistics.users_online_value: "{0} 位用户"
   about.statistics.past_24h: "过去24小时:"
-  about.statistics.past_24h_value: "{0} 位独立用户"
+  about.statistics.past_24h_value: "{0} 位去重用户"
   about.statistics.usage_time: "您的使用时长:"
   about.statistics.usage_time_value_hour: "{0} 小时"
   about.statistics.usage_time_value_minute: "{0} 分钟"
