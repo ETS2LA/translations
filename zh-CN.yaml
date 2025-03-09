@@ -245,7 +245,7 @@ Translations:
   about.statistics.usage_time_value_hour_and_minute: "{0} 小时 {1} 分钟"
   about.statistics.logged_in: "您已登录"
   about.statistics.not_logged_in: "您未登录"
-  about.statistics.anonymous_user_id: "您的匿名用户 ID 是: {0}"
+  about.statistics.anonymous_user_id: "您的 匿名用户 ID 是: {0}"
   about.statistics.welcome: "欢迎回来, {0}！"
   about.developers: "开发者 / 贡献者"
   about.translation_credits: "翻译鸣谢"
