@@ -5,7 +5,7 @@ Language:
   # ^ The name of the language in English. Example: "Finnish"
   iso_code: "zh-CN"
   # ^ The ISO 639-1 code for the language. Example: "fi"
-  credits: "您正在使用官方中文。翻译：MRUIAW，晚安，Lun，DennisL"
+  credits: "您正在使用官方中文。翻译：MRUIAW，晚安，Lun，DennisL，wyc-26"
   # ^ The credits for the language show in the UI.
   version: "2.0.0"
   # ^ Latest compatible version. Checked by the UI for compatibility.
