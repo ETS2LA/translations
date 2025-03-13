@@ -238,7 +238,7 @@ Translations:
   about.statistics.users_online: "在線使用者："
   about.statistics.users_online_value: "{0} 位使用者"
   about.statistics.past_24h: "過去 24 小時："
-  about.statistics.past_24h_value: "{0} 位獨立使用者"
+  about.statistics.past_24h_value: "{0} 位不重複的使用者"
   about.statistics.usage_time: "您的使用時間："
   about.statistics.usage_time_value_hour: "{0} 小時"
   about.statistics.usage_time_value_minute: "{0} 分鐘"
