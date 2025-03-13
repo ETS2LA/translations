@@ -428,7 +428,7 @@ Translations:
   object_detection.processing_error: "Error while processing vehicle data"
   sdk_install.title: "SDK Setup"
   sdk_install.description: "Check that you have the necessary DLLs installed for us to communicate with the game."
-  sdk_install.no_games: "We could not find any games on your system. You'll have to install the SDKs manually."
+  sdk_install.no_games: "We could not find any SCS games on your system. Please note that ETS2LA will only work with legitimate versions downloaded from Steam."
   sdk_install.games: "We found the following games on your system:"
   sdk_install.install: "Install SDKs"
   sdk_install.install_description: "This button will install the SDKs for all the games listed above. It might take some time to refresh the page after the installation is complete."
