@@ -5,7 +5,7 @@ Language:
   # ^ The name of the language in English. Example: "Finnish"
   iso_code: "zh-CN"
   # ^ The ISO 639-1 code for the language. Example: "fi"
-  credits: "您正在使用官方中文。翻译：MRUIAW，晚安，Lun，DennisL，wyc-26"
+  credits: "您正在使用官方中文。翻译：MRUIAW，晚安，Lun，DennisL"
   # ^ The credits for the language show in the UI.
   version: "2.0.0"
   # ^ Latest compatible version. Checked by the UI for compatibility.
@@ -228,7 +228,7 @@ Translations:
   tutorials.plugins.tags: "默认选中了base标签。您可以通过点击插件列表中的标签或在此处打开下拉菜单来添加更多筛选条件。"
   tutorials.plugins.clear: '点击此按钮可清除当前所有搜索选项。'
   tutorials.plugins.enable_all: "通过此复选框可批量启用/禁用当前可见的所有插件。"
-  tutorials.plugins.list: '初次使用时，建议启用除“数据收集”和“导航检测”之外的所有插件。'
+  tutorials.plugins.list: '初次使用时，建议启用除"Data Collection End-To-End Driving"和"Navigation Detection"之外的所有插件。'
 
   # MARK: About
 
@@ -395,7 +395,7 @@ Translations:
 
   # MARK: Plugin keys
 
-  map.json_not_found: "在 GameData 文件夹中找不到 JSON 文件，请解压缩 GameData.zip 文件。"
+  map.json_not_found: "在 GameData 文件夹中找不到 json 文件，请解压缩 GameData.zip 文件。"
   map.loading.preparing: "地图正在准备加载数据..."
   map.loading.nodes: "地图加载数据点..."
   map.loading.roads: "地图加载道路中..."
