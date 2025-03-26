@@ -279,7 +279,7 @@ Translations:
   plugins.adaptivecruisecontrol: "Adaptive Cruise Control"
   plugins.adaptivecruisecontrol.description: "Will slow down for vehicles in front (if an object detection model is enabled). Will also slow down for turns (if a plugin exporting this information is enabled)."
   plugins.ar: "AR (Augmented Reality)"
-  plugins.ar.description: "In development... The plugin will draw shapes over your game, to make it seem like they are in the game world."
+  plugins.ar.description: "Overlays data on top of the game screen. Supports all plugins tagged with 'AR' (click the tag on the right). Still in development."
   plugins.cruisecontrol: "Cruise Control"
   plugins.cruisecontrol.description: "Use the In-Game cruise control to control speed and keep distance between vehicles in front. Can't work with ACC plugin!"
   plugins.datacollection: "Data Collection"
@@ -304,6 +304,8 @@ Translations:
   plugins.trafficlightdetection.description: "Detects traffic lights using computer vision and can display them in an output window. It communicates with the CruiseControl plugin to stop the truck at red traffic lights."
   plugins.truckstats: "Truck Stats"
   plugins.truckstats.description: "This plugin shows some statistics about the truck, route and the game."
+  plugin.hud: "HUD"
+  plugin.hud.description: "Creates a heads up display on the windshield. Needs the AR plugin to work."
 
   # MARK: Plugin settings
 
@@ -392,6 +394,10 @@ Translations:
   acc.settings.6.description: "Show a popup when the app is slowing down due to any obstructions."
   acc.settings.7.name: "Speed when API speed limit is 0"
   acc.settings.7.description: "The speed to which will be driven when the API reads a speed limit of 0 or below."
+  ar.settings.vision_compatible.name: "Vision Compatible Mode"
+  ar.settings.vision_compatible.description: "Hide the AR from the screen capture so plugins which rely on vision can be used with AR. Notice: This will make the AR invisible in any screen capture app! (e.g. OBS, Discord, etc.)"
+  ar.settings.show_test_objects.name: "Show Test Objects"
+  ar.settings.show_test_objects.description: "Show test objects in the AR, for example the white circles at each wheel."
 
   # MARK: Plugin keys
 
