@@ -5,7 +5,7 @@ Language:
   # ^ The name of the language in English. Example: "Finnish"
   iso_code: "zh-CN"
   # ^ The ISO 639-1 code for the language. Example: "fi"
-  credits: "您正在使用官方中文。翻译：MRUIAW，晚安，Lun，DennisL，wyc-26"
+  credits: "您正在使用官方中文。翻译：MRUIAW，晚安，Lun，DennisL"
   # ^ The credits for the language show in the UI.
   version: "2.0.0"
   # ^ Latest compatible version. Checked by the UI for compatibility.
@@ -217,7 +217,7 @@ Translations:
 
   tutorials.main.window_controls: "这些是窗口控制按钮。最左侧的按钮包含额外选项，您可以将鼠标悬停其上以查看详细提示！（在引导教程结束后）"
   tutorials.main.slide_area: "您可以通过拖动此区域来移动窗口位置。"
-  tutorials.main.sidebar_collapse: '点击侧边栏边缘可以折叠侧边栏，以进入全屏模式。'
+  tutorials.main.sidebar_collapse: "点击侧边栏边缘可以折叠侧边栏，以进入全屏模式。"
   tutorials.main.sidebar: "您可以通过侧边栏轻松切换到软件的不同页面。部分页面还包含更多提示帮助您熟悉本软件！"
   tutorials.main.settings: "现在请前往设置页面！"
   tutorials.settings.static: "这里显示的是整个软件所需的基础设置。"
@@ -228,7 +228,7 @@ Translations:
   tutorials.plugins.tags: "默认选中了base标签。您可以通过点击插件列表中的标签或在此处打开下拉菜单来添加更多筛选条件。"
   tutorials.plugins.clear: '点击此按钮可清除当前所有搜索选项。'
   tutorials.plugins.enable_all: "通过此复选框可批量启用/禁用当前可见的所有插件。"
-  tutorials.plugins.list: '初次使用时，建议启用除“数据收集”和“导航检测”之外的所有插件。'
+  tutorials.plugins.list: '初次使用时，建议启用除"Data Collection End-To-End Driving"和"Navigation Detection"之外的所有插件。'
 
   # MARK: About
 
@@ -279,7 +279,7 @@ Translations:
   plugins.adaptivecruisecontrol: "主动巡航控制 (ACC)"
   plugins.adaptivecruisecontrol.description: "会在前方有车辆时减速（如果启用了物体检测插件）。在转弯时也会减速（如果启用了导出此信息的插件）。"
   plugins.ar: "AR (增强现实)"
-  plugins.ar.description: "开发中... 插件会在游戏画面上绘制形状，使它们看起来像是在游戏里一样。"
+  plugins.ar.description: "在游戏画面上显示数据。支持所有标有 'AR' 的插件（单击右侧的标签）。仍在开发中。"
   plugins.cruisecontrol: "巡航控制 (CC)"
   plugins.cruisecontrol.description: "基于游戏内自动巡航来控制速度与保持车距。无法与ACC插件一起使用！"
   plugins.datacollection: "数据收集"
@@ -304,6 +304,8 @@ Translations:
   plugins.trafficlightdetection.description: "使用计算机视觉检测红绿灯，并可在输出窗口显示它们。它与巡航控制插件连接，可在红灯时停止卡车。"
   plugins.truckstats: "卡车数据"
   plugins.truckstats.description: "此插件显示关于卡车、路线和游戏的一些统计数据。"
+  plugin.hud: "HUD"
+  plugin.hud.description: "在挡风玻璃上生成 HUD(抬头显示) 界面。需配合AR插件使用。"
 
   # MARK: Plugin settings
 
@@ -392,10 +394,14 @@ Translations:
   acc.settings.6.description: "当程序因任何障碍物而减速时显示一个弹出窗口。"
   acc.settings.7.name: "在无限速路段时所保持的车速"
   acc.settings.7.description: "当 API 读取到当前路段无限速时所保持的行驶速度。"
+  ar.settings.vision_compatible.name: "视觉识别兼容模式"
+  ar.settings.vision_compatible.description: "从屏幕捕捉中隐藏 AR 画面，以便依赖视觉识别的插件可以与 AR 一起使用。注意：这将使 AR 在任何屏幕录制应用中不可见！（例如 OBS、Discord 等）"
+  ar.settings.show_test_objects.name: "显示测试对象"
+  ar.settings.show_test_objects.description: "在 AR 中显示测试对象，例如每个轮子上的白色圆圈。"
 
   # MARK: Plugin keys
 
-  map.json_not_found: "在 GameData 文件夹中找不到 JSON 文件，请解压缩 GameData.zip 文件。"
+  map.json_not_found: "在 GameData 文件夹中找不到 json 文件，请解压缩 GameData.zip 文件。"
   map.loading.preparing: "地图正在准备加载数据..."
   map.loading.nodes: "地图加载数据点..."
   map.loading.roads: "地图加载道路中..."
