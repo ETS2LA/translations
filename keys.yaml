@@ -230,6 +230,8 @@
 - plugins.trafficlightdetection.description
 - plugins.truckstats
 - plugins.truckstats.description
+- plugin.hud
+- plugin.hud.description
 - global.settings.1.title
 - global.settings.1.description
 - global.settings.2.name
@@ -313,6 +315,10 @@
 - acc.settings.6.description
 - acc.settings.7.name
 - acc.settings.7.description
+- ar.settings.vision_compatible.name
+- ar.settings.vision_compatible.description
+- ar.settings.show_test_objects.name
+- ar.settings.show_test_objects.description
 - map.loading.preparing
 - map.loading.nodes
 - map.loading.roads
