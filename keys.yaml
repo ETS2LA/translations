@@ -232,6 +232,10 @@
 - plugins.truckstats.description
 - plugin.hud
 - plugin.hud.description
+- plugin.visualizationsockets
+- plugin.visualizationsockets.description
+- plugin.navigationsockets
+- plugin.navigationsockets.description
 - global.settings.1.title
 - global.settings.1.description
 - global.settings.2.name
