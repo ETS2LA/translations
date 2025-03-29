@@ -310,6 +310,8 @@ Translations:
   plugin.visualizationsockets.description: "与 Unity 环境可视化进行连接。"
   plugin.navigationsockets: "导航地图 Sockets"
   plugin.navigationsockets.description: "与 tmudge 的导航地图进行连接。"
+  plugin.datacollectionendtoenddriving: "为 端到端驾驶 的 数据收集"
+  plugin.datacollectionendtoenddriving.description: "此插件上传匿名化驾驶数据用于训练我们的 端到端驾驶 模型。所有采集的数据将被开源。"
 
   # MARK: Plugin settings
 
@@ -439,6 +441,28 @@ Translations:
   hud.settings.show_traffic_light_times.description: "在HUD上显示所有交通信号灯的剩余时间。"
   hud.settings.draw_wheel_paths.name: "绘制轮胎轨迹"
   hud.settings.draw_wheel_paths.description: "在HUD上显示车辆轮胎的运动轨迹预测线。"
+  data_collection_end_to_end_driving.title: "为 端到端驾驶 的 数据收集"
+  data_collection_end_to_end_driving.description: "本插件会为我们的 端到端驾驶模型 发送匿名驾驶数据。\n所有收集的数据将在 Hugging Face 平台开源共享。"
+  data_collection_end_to_end_driving.link: "-> 查看 Huggingface 上的当前数据集"
+  data_collection_end_to_end_driving.tab.notice: "注意事项"
+  data_collection_end_to_end_driving.subtitle: "ETS2LA无需此插件即可运行。您可以随时禁用它！"
+  data_collection_end_to_end_driving.what_we_send: "我们会收集的数据："
+  data_collection_end_to_end_driving.what_we_send.description: "• 有且仅有游戏窗口画面截图\n• 当前转向角度、行驶速度等驾驶数据"
+  data_collection_end_to_end_driving.what_you_should_know: '您需要知悉的事项：'
+  data_collection_end_to_end_driving.what_you_should_know.description: "• 非游戏状态下插件会暂停数据采集\n• 会捕捉游戏窗口上的叠加层（如Discord语音频道覆盖）\n• 所有数据均不与个人身份信息关联。"
+  data_collection_end_to_end_driving.what_you_can_do: "您的权利："
+  data_collection_end_to_end_driving.what_you_can_do.description: "• 数据上传至服务器前保留7天删除期\n• 已上传数据仍可删除（需保留原始数据ID）"
+  data_collection_end_to_end_driving.where_the_data_is_saved: "数据存储位置："
+  data_collection_end_to_end_driving.your_current_id: "您当前的数据ID："
+  data_collection_end_to_end_driving.manual_deletion: "手动删除："
+  data_collection_end_to_end_driving.manual_deletion.description: "• 访问以下链接可提交删除请求：\n• https://cdn.ets2la.com/datasets/OleFranz/End-To-End/delete/{GetDataID()}"
+  data_collection_end_to_end_driving.i_read_the_notice: "我已阅读注意事项并同意参与数据收集"
+  data_collection_end_to_end_driving.tab.control_your_data: "数据管理"
+  data_collection_end_to_end_driving.delete_data_on_pc.name: "删除本地暂存数据"
+  data_collection_end_to_end_driving.delete_data_on_pc.description: "此操作将清除插件所收集但尚未上传至服务器的所有数据"
+  data_collection_end_to_end_driving.delete_data_on_server.name: "删除云端数据"
+  data_collection_end_to_end_driving.delete_data_on_server.description: "此操作将删除已上传至服务器的数据\n若数据ID丢失并生成新ID，则无法追溯删除旧数据"
+  data_collection_end_to_end_driving.server_code_link.description: "服务端代码仓库：https://github.com/ETS2LA/cdn"
 
   # MARK: Plugin keys
 
@@ -483,3 +507,7 @@ Translations:
   sdk_install.uninstall_description: "此按钮将为上面列出的所有游戏卸载 SDK。卸载完成后，可能需要一些时间刷新页面。"
   sdk_install.installed: "- 已安装"
   sdk_install.not_installed: "- 未安装"
+  data_collection_end_to_end_driving.deleting_data: "正在删除数据，这可能需要一段时间..."
+  data_collection_end_to_end_driving.deleted: "已成功删除数据！"
+  data_collection_end_to_end_driving.couldnt_delete: "无法删除数据。"
+  data_collection_end_to_end_driving.button.delete: "删除"
