@@ -306,6 +306,10 @@ Translations:
   plugins.truckstats.description: "This plugin shows some statistics about the truck, route and the game."
   plugin.hud: "HUD"
   plugin.hud.description: "Creates a heads up display on the windshield. Needs the AR plugin to work."
+  plugin.visualizationsockets: "Visualization Sockets"
+  plugin.visualizationsockets.description: "Unity visualization socket connection."
+  plugin.navigationsockets: "Navigation Sockets"
+  plugin.navigationsockets.description: "Provides a socket connection to tmudge's navigation map."
 
   # MARK: Plugin settings
 
