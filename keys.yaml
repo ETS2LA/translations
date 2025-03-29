@@ -330,6 +330,7 @@
 - ar.settings.vision_compatible.description
 - ar.settings.show_test_objects.name
 - ar.settings.show_test_objects.description
+- hud.settings.tab.general.name
 - hud.settings.refresh_rate.name
 - hud.settings.refresh_rate.description
 - hud.settings.scale.name
@@ -340,6 +341,7 @@
 - hud.settings.offset_y.description
 - hud.settings.offset_z.name
 - hud.settings.offset_z.description
+- hud.settings.tab.elements.name
 - hud.settings.show_navigation.name
 - hud.settings.show_navigation.description
 - hud.settings.show_acc_info.name
