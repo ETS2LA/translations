@@ -455,7 +455,7 @@ Translations:
   data_collection_end_to_end_driving.where_the_data_is_saved: "Where the data is saved:"
   data_collection_end_to_end_driving.your_current_id: "Your current ID:"
   data_collection_end_to_end_driving.manual_deletion: "Manual deletion:"
-  data_collection_end_to_end_driving.manual_deletion.description: "• You can request to delete the data by opening this URL in your browser:\n• https://cdn.ets2la.com/datasets/OleFranz/End-To-End/delete/"
+  data_collection_end_to_end_driving.manual_deletion.description: "• You can request to delete the data by opening this URL in your browser:\n• "
   data_collection_end_to_end_driving.i_read_the_notice: "I read the notice and I want to help with the data collection"
   data_collection_end_to_end_driving.tab.control_your_data: "Control your Data"
   data_collection_end_to_end_driving.delete_data_on_pc.name: "Delete collected, not yet uploaded data"
