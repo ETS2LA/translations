@@ -455,7 +455,7 @@ Translations:
   data_collection_end_to_end_driving.where_the_data_is_saved: "数据存储位置："
   data_collection_end_to_end_driving.your_current_id: "您当前的数据ID："
   data_collection_end_to_end_driving.manual_deletion: "手动删除："
-  data_collection_end_to_end_driving.manual_deletion.description: "• 访问以下链接可提交删除请求：\n• https://cdn.ets2la.com/datasets/OleFranz/End-To-End/delete/{GetDataID()}"
+  data_collection_end_to_end_driving.manual_deletion.description: "• 访问以下链接可提交删除请求：\n• "
   data_collection_end_to_end_driving.i_read_the_notice: "我已阅读注意事项并同意参与数据收集"
   data_collection_end_to_end_driving.tab.control_your_data: "数据管理"
   data_collection_end_to_end_driving.delete_data_on_pc.name: "删除本地暂存数据"
