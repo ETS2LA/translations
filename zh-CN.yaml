@@ -228,7 +228,7 @@ Translations:
   tutorials.plugins.tags: "默认选中了base标签。您可以通过点击插件列表中的标签或在此处打开下拉菜单来添加更多筛选条件。"
   tutorials.plugins.clear: '点击此按钮可清除当前所有搜索选项。'
   tutorials.plugins.enable_all: "通过此复选框可批量启用/禁用当前可见的所有插件。"
-  tutorials.plugins.list: '初次使用时，建议启用除"Data Collection End-To-End Driving"和"Navigation Detection"之外的所有插件。'
+  tutorials.plugins.list: '初次使用时，建议启用除"为 端到端驾驶 的 数据收集"和"Navigation Detection"之外的所有插件。'
 
   # MARK: About
 
