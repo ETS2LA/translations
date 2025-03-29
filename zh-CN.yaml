@@ -306,6 +306,10 @@ Translations:
   plugins.truckstats.description: "此插件显示关于卡车、路线和游戏的一些统计数据。"
   plugin.hud: "HUD"
   plugin.hud.description: "在挡风玻璃上生成 HUD(抬头显示) 界面。需配合AR插件使用。"
+  plugin.visualizationsockets: "环境可视化 Sockets"
+  plugin.visualizationsockets.description: "与 Unity 环境可视化进行连接。"
+  plugin.navigationsockets: "导航地图 Sockets"
+  plugin.navigationsockets.description: "与 tmudge 的导航地图进行连接。"
 
   # MARK: Plugin settings
 
