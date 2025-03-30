@@ -395,7 +395,7 @@ Translations:
   object_detection.settings.5.description: "您想使用的模型。請注意，YoloV7 需要更多的計算資源。"
   object_detection.settings.6.name: "螢幕擷取尺寸"
   object_detection.settings.6.description: "用於物體辨識的螢幕部分。位置 0 是 X，位置 1 是 Y，位置 2 是寬度，位置 3 是高度。此設定將在您首次啟動插件後自動設定。"
-  acc.settings.tab.acc.name: "自適應定速巡航"
+  acc.settings.tab.acc.name: "主動式巡航控制"
   acc.settings.aggressiveness.name: "加速與減速反應"
   acc.settings.aggressiveness.description: "卡車加速與減速的反應程度。"
   acc.settings.following_distance.name: "跟車距離"
