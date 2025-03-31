@@ -511,3 +511,7 @@ Translations:
   data_collection_end_to_end_driving.deleted: "Data deleted successfully!"
   data_collection_end_to_end_driving.couldnt_delete: "Couldn't delete the data."
   data_collection_end_to_end_driving.button.delete: "Delete"
+  please_enable_the_plugin.title: "Please enable the plugin."
+  please_enable_the_plugin.description: "This plugin is disabled. Enable it to access the rest of this plugin's settings."
+  plugin_enabled: "Plugin enabled"
+  enable_plugin: "Enable"

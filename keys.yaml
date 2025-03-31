@@ -421,3 +421,7 @@
 - data_collection_end_to_end_driving.deleted
 - data_collection_end_to_end_driving.couldnt_delete
 - data_collection_end_to_end_driving.button.delete
+- please_enable_the_plugin.title
+- please_enable_the_plugin.description
+- plugin_enabled
+- enable_plugin

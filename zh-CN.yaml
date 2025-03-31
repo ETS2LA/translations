@@ -511,3 +511,7 @@ Translations:
   data_collection_end_to_end_driving.deleted: "已成功删除数据！"
   data_collection_end_to_end_driving.couldnt_delete: "无法删除数据。"
   data_collection_end_to_end_driving.button.delete: "删除"
+  please_enable_the_plugin.title: "请启用此插件"
+  please_enable_the_plugin.description: "此插件已被禁用。启用此插件以访问余下的选项。"
+  plugin_enabled: "插件已启用"
+  enable_plugin: "启用"
