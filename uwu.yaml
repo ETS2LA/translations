@@ -1,0 +1,575 @@
+Language:
+  credits: Official UwU language twanswation~ 
+  iso_code: OwO
+  name: UwU
+  name_en: UwU
+  version: 2.0.0
+Translations:
+  about.about: About
+  about.atac_helicopter.description: Bug fixes
+  about.cloud.description: Winux & Unix Powt, vawious impwovements and bug fixes
+  about.contribute_description: • If yu want to contwibute, dan I wecommend joining
+    da discowd sewvew and checking out da github page.
+  about.description: ETS2WA is a pwoject that aims to pwovide an easy to use sewf
+    dwiving sowution fow ETS2 and ATS, if yu want to weawn mowe dan yu can visit da
+    github page ow da wiki via da sidebaw.
+  about.developers: Devewopews / Contwibutows
+  about.dtheicydragon.description: Bug fixes
+  about.dyldev.description: Vawious additions and impwovements, Object Detection AI
+    modews & devewopment
+  about.flexflexen.description: Bug fixes
+  about.glas42.description: Navigation Detection, Twaffic Wight Detection, ETS2WA
+    Wite, 'co-ownew'
+  about.kofi_description: • If yu wike da pwoject and want to suppowt da devewopment,
+    yu can do so by donating via Ko-Fi.
+  about.lookatyourskill.description: Bug fixes
+  about.lun.description: Chinese twanswation, bug fixes
+  about.mimi89999.description: scs-sdk-contwowwew devewopew
+  about.mruiaw.description: Chinese twanswations, bug fixes
+  about.no_credits: Wanguage haz nu cwedits.
+  about.piotrke.description: Game hooks
+  about.roccovax.description: ETS2WA game-side SDK devewopew. Vehicwes, Twaffic Wights,
+    Camewa data and mowe diwect fwom da game.
+  about.romansonnik.description: Bug fixes
+  about.statistics: Statistics
+  about.statistics.anonymous_user_id: 'Yuw anunymous usew ID is: {0}'
+  about.statistics.logged_in: Yu awe wogged in.
+  about.statistics.not_logged_in: Yu awe nut wogged in.
+  about.statistics.past_24h: 'Past 24 houws:'
+  about.statistics.past_24h_value: '{0} unique usews'
+  about.statistics.usage_time: 'Yuw usage time:'
+  about.statistics.usage_time_value_hour: '{0} houws'
+  about.statistics.usage_time_value_hour_and_minute: '{0} houws and {1} minutes'
+  about.statistics.usage_time_value_minute: '{0} minutes'
+  about.statistics.users_online: 'Usews onwine:'
+  about.statistics.users_online_value: '{0} usews'
+  about.statistics.welcome: Wewcome back, {0}!
+  about.support_development: Suppowt Devewopment
+  about.translate_description: • If yu want to contwibute to da twanswations, dan
+    yu can do so by joining da discowd.
+  about.translation_credits: Twanswation Cwedits
+  about.truckersmudgeon.description: Game data extwaction and pwocessing
+  about.tumppi066.description: Wead devewopew and cweatow of ETS2WA, backend & fwontend.
+  about.viszke.description: Bug fixes
+  about.whytrevorwhy.description: Hewp with Navigate on ETS2WA & Map
+  about.zhaoyj.description: 3D modews fow da visuawization
+  about.ziakhan4505.description: C++ suppowt, Winux & Unix Powt, bug fixes
+  acc.settings.1.description: This wiww affect how da app wesponds to odaw vehicwes.
+  acc.settings.1.title: Adaptive Cwuise Contwow Settings
+  acc.settings.2.description: How many seconds behind da vehicwe in fwont we shouwd
+    be.
+  acc.settings.2.name: Fowwow Time
+  acc.settings.4.description: How faw da app shouwd keep fwom da object in fwont.
+  acc.settings.4.name: Distance
+  acc.settings.6.description: Show a popup when da app is swowing down due to any
+    obstwuctions.
+  acc.settings.6.name: Show Notifications
+  acc.settings.aggressiveness.description: How aggwessivewy da twuck wiww accewewate
+    and decewewate.
+  acc.settings.aggressiveness.name: Aggwessiveness
+  acc.settings.coefficient_of_friction.description: Contwows da (imaginawy) fwiction
+    between da tiwes and da woad. Wowew vawues wiww make da twuck swow down mowe,
+    whiwe highew vawues wiww make it go fastew in tuwns.
+  acc.settings.coefficient_of_friction.name: Coefficient of fwiction
+  acc.settings.following_distance.description: How faw da twuck wiww keep fwom da
+    vehicwe in fwont of it.
+  acc.settings.following_distance.name: Fowwowing Distance
+  acc.settings.gap_to_vehicle_in_front.name: 'Gap to Vehicwe in Fwont:'
+  acc.settings.maximum_acceleration.name: 'Maximum Accewewation:'
+  acc.settings.maximum_deceleration.name: 'Maximum Decewewation:'
+  acc.settings.overwrite_speed.description: Da speed to which wiww be dwiven when
+    da API weads a speed wimit of 0 ow bewow.
+  acc.settings.overwrite_speed.name: Speed when API speed wimit is 0
+  acc.settings.speed_offset.description: Dwive this amount ovew da speed wimit.
+  acc.settings.speed_offset.name: Speed Offset
+  acc.settings.speed_offset_type.description: Do we dwive a pewcentage fastew than
+    da speed wimit, ow do we add a set amount?
+  acc.settings.speed_offset_type.name: Speed Offset type
+  acc.settings.tab.acc.name: Adaptive Cwuise Contwow
+  acc.settings.tab.speed_control.name: Speed Contwow
+  ar.settings.show_test_objects.description: Show test objects in da AW, fow exampwe
+    da white ciwcwes at each wheew.
+  ar.settings.show_test_objects.name: Show Test Objects
+  ar.settings.vision_compatible.description: 'Hide da AW fwom da scween captuwe so
+    pwugins which wewy on vision can be used with AW. Notice: This wiww make da AW
+    invisibwe in any scween captuwe app! (e.g. OBS, Discowd, etc.)'
+  ar.settings.vision_compatible.name: Vision Compatibwe Mode
+  cancel: Cancew
+  clear: Cweaw
+  confirm: Confiwm
+  continue: Continue
+  controls.listener_started: Contwows wistenew stawted.
+  core.backend_started: ETS2WA backend haz been stawted successfuwwy.
+  data_collection_end_to_end_driving.button.delete: Dewete
+  data_collection_end_to_end_driving.couldnt_delete: Couwdn't dewete da data.
+  data_collection_end_to_end_driving.delete_data_on_pc.description: This wiww dewete
+    aww da data that was cowwected by da pwugin but nut yet upwoaded to da sewvew.
+  data_collection_end_to_end_driving.delete_data_on_pc.name: Dewete cowwected, nut
+    yet upwoaded data
+  data_collection_end_to_end_driving.delete_data_on_server.description: 'This wiww
+    dewete aww da data that was cowwected by da pwugin and awweady upwoaded to da
+    sewvew.
+
+    Not possibwe to dewete aww da data if da data ID got wost at some point and wepwaced
+    with a new one.'
+  data_collection_end_to_end_driving.delete_data_on_server.name: Dewete awweady upwoaded
+    data
+  data_collection_end_to_end_driving.deleted: Data deweted successfuwwy!
+  data_collection_end_to_end_driving.deleting_data: Deweting data, couwd take a whiwe...
+  data_collection_end_to_end_driving.description: "This pwugins sends anunymous dwiving\
+    \ data fow ouw end-to-end dwiving modew. \nAww da cowwected data wiww be avaiwabwe\
+    \ open souwce on Hugging Face."
+  data_collection_end_to_end_driving.i_read_the_notice: I wead da nutice and I want
+    to hewp with da data cowwection
+  data_collection_end_to_end_driving.link: -> View cuwwent datasets on Huggingface
+  data_collection_end_to_end_driving.manual_deletion: 'Manuaw dewetion:'
+  data_collection_end_to_end_driving.manual_deletion.description: '• Yu can wequest
+    to dewete da data by opening this UWW in yuw bwowsew:
+
+    • '
+  data_collection_end_to_end_driving.server_code_link.description: Sewvew code can
+    be found at https://github.com/ETS2WA/cdn
+  data_collection_end_to_end_driving.subtitle: This pwugin is nut wequiwed fow ETS2WA
+    to wowk. Yu can disabwe it at any time!
+  data_collection_end_to_end_driving.tab.control_your_data: Contwow yuw Data
+  data_collection_end_to_end_driving.tab.notice: Notice
+  data_collection_end_to_end_driving.title: Data Cowwection End-To-End Dwiving
+  data_collection_end_to_end_driving.what_we_send: 'What we send:'
+  data_collection_end_to_end_driving.what_we_send.description: '• Images of yuw game
+    window, and onwy yuw game window.
+
+    • Data wike cuwwent steewing angwe ow dwiving speed.'
+  data_collection_end_to_end_driving.what_you_can_do: 'What yu can do:'
+  data_collection_end_to_end_driving.what_you_can_do.description: '• Yu have 7 days
+    to dewete da data befowe it wiww be upwoaded to ouw sewvew.
+
+    • If da data is awweady on da sewvew, yu can stiww dewete it as wong as yu have
+    da ID used to upwoad da data.'
+  data_collection_end_to_end_driving.what_you_should_know: 'What yu shouwd knuw:'
+  data_collection_end_to_end_driving.what_you_should_know.description: '• Da pwugin
+    wiww pause da captuwe of data when yu awe nut activewy pwaying da game.
+
+    • Da pwugin captuwes ovewways ovew da game window wike da discowd voice channew
+    ovewway!
+
+    • No pewsonaw infowmation is saved with da ID.'
+  data_collection_end_to_end_driving.where_the_data_is_saved: 'Whewe da data is saved:'
+  data_collection_end_to_end_driving.your_current_id: 'Yuw cuwwent ID:'
+  done: Done!
+  download: Downwoad
+  downloading: Downwoading {0}...
+  enable_plugin: Enabwe
+  error: Ewwow
+  events.vehicle_change.vehicle_change: Vehicwe change detected.
+  events.vehicle_change.vehicle_change_description: We've detected a new vehicwe.
+    Pwease pwess F4 in da cabin view, open da seat settings, and entew yuw new FOV
+    vawue.
+  frontend.404.button: Main Menu
+  frontend.404.message: Anyway cwick da button bewow to wetuwn to da home scween,
+    and can yu pwease teww us how yu got hewe?
+  frontend.404.title: Why awe we hewe... just to suffew?
+  frontend.dialog.not_supported: '{0} is nut suppowted in a diawog.'
+  frontend.disclaimer.description.line1: ETS2WA is nut wesponsibwe fow any iww effects
+    caused by using any of da featuwes pwovided by this softwawe. Pwease use da softwawe
+    at yuw own wisk.
+  frontend.disclaimer.description.line2: Using ETS2WA in TwuckewsMP haz been awwowed
+    by TMP staff but yu awe wesponsibwe fow any bans ow wawnings caused by using this
+    softwawe.
+  frontend.disclaimer.dontshowagain: Don't show this again
+  frontend.disclaimer.dontshowagain.toast: Yu won't see it again tiww da next update.
+  frontend.disclaimer.ok: I undewstand
+  frontend.disclaimer.title: Discwaimew!
+  frontend.feedback: Feedback
+  frontend.feedback.description: Pwease pwovide any feedback yu have. This wiww be
+    send diwectwy to a pwivate channew fow devewopews to see.
+  frontend.feedback.disclaimer: Do nut shawe any pewsonaw infowmation.
+  frontend.feedback.empty: Feedback is empty, pwease pwovide any feedback yu have.
+  frontend.feedback.error_sending: Dawe was an ewwow sending da feedback, twy again
+    watew.
+  frontend.feedback.sending: Sending feedback...
+  frontend.feedback.sent: Feedback sent!
+  frontend.feedback.submit: Submit
+  frontend.hello: Hewwo, {0}!
+  frontend.immediate.checking_updates: Checking fow updates...
+  frontend.immediate.close: Cwose
+  frontend.immediate.connected: Connected to da ETS2WA backend
+  frontend.immediate.disable_stay_on_top: Disabwe stay on top
+  frontend.immediate.disable_transparent: Disabwe twanspawency
+  frontend.immediate.disconnected: Disconnected fwom da ETS2WA backend
+  frontend.immediate.enable_stay_on_top: Enabwe stay on top
+  frontend.immediate.enable_transparent: Enabwe twanspawency
+  frontend.immediate.minimize: Minimize
+  frontend.immediate.no_updates: No updates avaiwabwe.
+  frontend.immediate.socket_connected: Connected
+  frontend.immediate.socket_disconnected: Disconnected, pwease wefwesh.
+  frontend.immediate.up_to_date: Up to date
+  frontend.immediate.update_available: Yu awe {0} update(s) behind
+  frontend.immediate.update_check_error: 'Ewwow: {0}'
+  frontend.logged_out: Wogged out.
+  frontend.login: Wogin
+  frontend.login.already_logged_in: 'NOTE: Yu have awweady wogged in, yu can ovewwide
+    it by wogging in again.'
+  frontend.login.disclaimer: We cuwwentwy onwy suppowt wogging in via discowd, this
+    is so that we don't have to stowe any sensitive infowmation wike passwowds.
+  frontend.login.discord: Wogin with Discowd
+  frontend.login.privacy_policy: Pwivacy Powicy
+  frontend.login.successful: Successfuwwy wogged in!
+  frontend.login.successful_description: Wog out using da context menu undew yuw usewname
+    in da bottom weft.
+  frontend.plugins.authors: Authows
+  frontend.plugins.disabled_all_plugins: Disabwed aww pwugins
+  frontend.plugins.disabled_plugin: Disabwed {0}
+  frontend.plugins.disabling_all_plugins: Disabwing aww pwugins...
+  frontend.plugins.disabling_plugin: Disabwing {0}
+  frontend.plugins.enabled_all_plugins: Enabwed aww pwugins
+  frontend.plugins.enabled_plugin: Enabwed {0}
+  frontend.plugins.enabling_all_plugins: Enabwing aww pwugins...
+  frontend.plugins.enabling_plugin: Enabwing {0}
+  frontend.plugins.end_list: This is da end of da wist
+  frontend.plugins.error_disabling_plugin: Ewwow disabwing {0}
+  frontend.plugins.error_enabling_plugin: Ewwow enabwing {0}
+  frontend.plugins.hidden: '{0} pwugin(s) hidden'
+  frontend.plugins.name: Name
+  frontend.plugins.select_authors: Seawch Authows
+  frontend.plugins.select_tags: Seawch Tags
+  frontend.plugins.selected_authors: '{0} authow(s) sewected'
+  frontend.plugins.selected_tags: '{0} tag(s) sewected'
+  frontend.plugins.tags: Tags
+  frontend.settings: Settings
+  frontend.settings.array.add: Add Ewement
+  frontend.settings.array.added_element: Added awway ewement
+  frontend.settings.array.remove: Wemove
+  frontend.settings.array.removed_element: Wemoved awway ewement
+  frontend.settings.array.updated_element: Updated awway ewement
+  frontend.settings.backend_no_data: Got nu data fwom da backend.
+  frontend.settings.boolean.updated: Updated setting
+  frontend.settings.controls: Contwows
+  frontend.settings.data_missing: Pwugin data is nut vawid ow missing.
+  frontend.settings.enum.no_enum: No enum vawues pwovided.
+  frontend.settings.enum.updated: Updated setting
+  frontend.settings.error: 'Ewwow: {0}'
+  frontend.settings.global: Gwobaw
+  frontend.settings.global_info: This wist onwy incwudes pwugins that suppowt da gwobaw
+    settings fiwe.
+  frontend.settings.needs_restart: Pwugin needs a westawt to update settings.
+  frontend.settings.number.updated: Updated setting
+  frontend.settings.restarted: Westawt Successfuw
+  frontend.settings.string.updated: Updated setting
+  frontend.settings.unknown_data_type: 'Unknuwn data type: {0}'
+  frontend.sidebar.account: Account
+  frontend.sidebar.anonymous: Anunymous
+  frontend.sidebar.chat: Chat
+  frontend.sidebar.dashboard: Dashboawd
+  frontend.sidebar.help: Hewp
+  frontend.sidebar.main: Main
+  frontend.sidebar.manager: Managew
+  frontend.sidebar.performance: Pewfowmance
+  frontend.sidebar.plugins: Pwugins
+  frontend.sidebar.settings: Settings
+  frontend.sidebar.sign_in: Sign In
+  frontend.sidebar.sign_out: Sign Out
+  frontend.sidebar.sign_out_description: Yu can wog back in at any time.
+  frontend.sidebar.sign_out_successful: Sign out successfuw.
+  frontend.sidebar.updates_available: Updates Avaiwabwe
+  frontend.sidebar.visualization: Visuawization
+  frontend.sidebar.wiki: Wiki
+  frontend.states.complete: Done!
+  frontend.theme.dark: Dawk
+  frontend.theme.light: Wight
+  global.settings.1.description: Dase awe mostwy settings that affect da entiwe appwication.
+  global.settings.1.title: Gwobaw Settings
+  global.settings.10.description: Width of da window.
+  global.settings.10.name: Window Width
+  global.settings.11.description: Height of da window.
+  global.settings.11.name: Window Height
+  global.settings.12.description: Da twanspawency of da window in twanspawent mode.
+    1 = fuwwy opaque, 0 = fuwwy twanspawent.
+  global.settings.12.name: Twanspawency Mode Awpha
+  global.settings.13.description: Da ID of da dispway to use fow vision appwications
+    (Object Detection, etc.). This shouwd be set to da monitow that ETS2 is wunning
+    on. Needs a westawt to appwy changes!
+  global.settings.13.name: Dispway ID
+  global.settings.14.description: Missed da popup? Change yuw FOV hewe.
+  global.settings.14.name: FOV
+  global.settings.15.description: Whedaw to enabwe snuw pawticwes on da scween.
+  global.settings.15.name: Snuw
+  global.settings.16.description: Whedaw to enabwe fiwewowks on da scween.
+  global.settings.16.name: Fiwewowks
+  global.settings.2.description: Da soundpack to use. Dase wiww change aww da sounds
+    fow da app.
+  global.settings.2.name: Soundpack
+  global.settings.3.description: Da vowume of da sounds in da app.
+  global.settings.3.name: Vowume
+  global.settings.4.description: Da powt da fwontend wuns on.
+  global.settings.4.name: Fwontend Powt
+  global.settings.5.description: Whedaw to use a fancy twaceback when an ewwow occuws.
+  global.settings.5.name: Fancy Twaceback
+  global.settings.6.description: Whedaw to send cwash wepowts to da devewopews.
+  global.settings.6.name: Send Cwash Wepowts
+  global.settings.7.description: Whedaw to enabwe debug mode.
+  global.settings.7.name: Debug Mode
+  global.settings.8.description: Da wanguage to use fow da app. Needs a westawt to
+    appwy changes!
+  global.settings.8.name: Wanguage
+  global.settings.9.description: Whedaw to use a fwamewess window fow da app. Needs
+    a fuww westawt to appwy changes! Wiww fix pwobwems with moving da app window awound.
+    Awso enabwes scawing.
+  global.settings.9.name: Fwamewess
+  global.settings.audio: Audio
+  global.settings.misc: Miscewwaneous
+  global.settings.ui: Usew Intewface
+  global.settings.variables: Vawiabwes
+  godot.server_started: Godot sewving on powt {0}
+  hud.settings.draw_steering.description: Dwaw da steewing wine on da HUD.
+  hud.settings.draw_steering.name: Dwaw Steewing
+  hud.settings.draw_wheel_paths.description: Dwaw da wheew paths on da HUD.
+  hud.settings.draw_wheel_paths.name: Dwaw Wheew Paths
+  hud.settings.offset_x.description: Da X offset (side to side) of da HUD ewements.
+  hud.settings.offset_x.name: Offset X
+  hud.settings.offset_y.description: Da Y offset (top to bottom) of da HUD ewements.
+  hud.settings.offset_y.name: Offset Y
+  hud.settings.offset_z.description: Da Z offset (distance) of da HUD ewements.
+  hud.settings.offset_z.name: Offset Z
+  hud.settings.refresh_rate.description: Da wefwesh wate of da main ewements. Defauwt
+    is 2.
+  hud.settings.refresh_rate.name: Wefwesh Wate
+  hud.settings.scale.description: Da scawe of da HUD ewements. Defauwt is 1.
+  hud.settings.scale.name: Scawe
+  hud.settings.show_acc_info.description: Show da ACC info on da HUD.
+  hud.settings.show_acc_info.name: Show ACC Info
+  hud.settings.show_navigation.description: Show da distance to da next intewsection
+    on da HUD.
+  hud.settings.show_navigation.name: Show Navigation
+  hud.settings.show_traffic_light_times.description: Show da wemaining time fow aww
+    twaffic wights on da HUD.
+  hud.settings.show_traffic_light_times.name: Show Twaffic Wight Times
+  hud.settings.tab.elements.name: Ewements
+  hud.settings.tab.general.name: Genewaw
+  immediate.empty_page: Twied to send an empty page.
+  immediate.message_error: An ewwow occuwwed whiwe pwocessing a message.
+  immediate.websocket_started: Websocket stawted.
+  install: Instaww
+  loading: Woading...
+  logging.delete_log_error: Couwd nut dewete da wog fiwe.
+  logging.logger_initialized: Woggew initiawized.
+  main.closed: ETS2WA haz been cwosed.
+  main.crashed: 'ETS2WA haz cwashed with da fowwowing ewwow:'
+  main.development_mode: Wunning ETS2WA in devewopment mode.
+  main.errors: 'Ewwows:'
+  main.errors_and_warnings: 'Ewwows and wawnings in da wog fiwes:'
+  main.legacy_traceback: Used wegacy twaceback pwinting.
+  main.no_errors_or_warnings: No ewwows ow wawnings found.
+  main.overseer_started: ETS2WA Ovewseew stawted!
+  main.press_enter: Pwess entew to exit...
+  main.restarting: ETS2WA is westawting...
+  main.send_report: Send da above twaceback to da devewopews.
+  main.update_done: Update done... westawting!
+  main.updating: ETS2WA is updating...
+  main.warnings: 'Wawnings:'
+  map.extracting_data: Extwacting GameData.zip pwease wait...
+  map.json_not_found: No JSON fiwes found in da GameData fowdew, pwease unpack da
+    GameData.zip fiwe.
+  map.loading.ferries: Map Woading fewwies...
+  map.loading.final_calculations: Map doing finaw cawcuwations...
+  map.loading.nodes: Map Woading nudes...
+  map.loading.prefab_data: Map Woading pwefab data...
+  map.loading.prefabs: Map Woading pwefabs...
+  map.loading.preparing: Map pwepawing to woad data...
+  map.loading.roads: Map Woading woads...
+  map.settings.1.description: Dase settings awe fow da map pwugin.
+  map.settings.1.title: Map Settings
+  map.settings.10.title: Steewing Settings
+  map.settings.3.description: This wiww awwow odaw pwugins to use da Map's data. Pwease
+    nute that visuawisation wiww nut wowk without this option enabwed. This option
+    can and wiww impwove pewfowmance mawginawwy.
+  map.settings.3.name: Send Data
+  map.settings.4.title: Intewnaw Visuawisation
+  map.settings.5.description: Contwows da zoom wevew of da intewnaw visuawisation.
+  map.settings.5.name: Zoom
+  map.settings.6.description: Whedaw to wendew da intewnaw visuawisation of da map.
+    Usefuw if yu awe nut sending da extewnaw data.
+  map.settings.6.name: Enabwe Intewnaw Visuawisation
+  map.settings.7.title: Extewnaw Visuawisation
+  map.settings.8.description: This wiww set da max distance of da data send to odaw
+    pwugins. Assuming it is awwowed by da pwugin.
+  map.settings.8.name: Wendew Distance
+  map.settings.9.description: This wiww show da woads ovew yuw game, yu need to enabwe
+    da AW pwugin too.
+  map.settings.9.name: Show AW data
+  map.settings.compute_steering_data.description: This wiww cawcuwate aww necessawy
+    vawues fow da map to steew da twuck.
+  map.settings.compute_steering_data.name: Cawcuwate Steewing
+  map.settings.drive_based_on_trailer.description: Wiww move da 'dwiving point' towawds
+    da twaiwew at wow speeds. This shouwd fix some issues with da app cutting cownews.
+  map.settings.drive_based_on_trailer.name: Twaiwew Dwiving
+  map.settings.steering_smooth_time.description: Da amount of seconds to smooth da
+    steewing ovew. A vawue of 0 wiww be extwemewy snappy, whiwe a vawue ovew 0.5 might
+    swing weft and wight.
+  map.settings.steering_smooth_time.name: Smoothness
+  map.settings.tab.general.name: Genewaw
+  map.settings.tab.steering.name: Steewing
+  map.settings.use_navigation.description: Enabwe da automatic navigation featuwes
+    of ETS2WA.
+  map.settings.use_navigation.name: Navigate on ETS2WA
+  map.visualisation.prefabs.curves: 'Cuwves: {0}'
+  map.visualisation.prefabs.prefabs: 'Pwefabs: {0}, Tiwe: {1}'
+  map.visualisation.roads.text: 'Woads: {0}, Tiwe: {1}, Woading: {2}'
+  'no': 'No'
+  object_detection.connection_failed.1: Unabwe to weach da sewvew at Hugging Face.
+  object_detection.connection_failed.2: Pwease check yuw intewnet connection.
+  object_detection.connection_failed.3: 'NOTE: In countwies wike China, da sewvew
+    may be bwocked.'
+  object_detection.connection_failed.4: In this case, yu shouwd ask in da Discowd
+    fow hewp.
+  object_detection.loaded_model: Object Detection modew woaded on {0}
+  object_detection.loading_model: Woading Object Detection Modew...
+  object_detection.not_found.1: Da wequested modew shown bewow haz nut yet been downwoaded.
+  object_detection.not_found.2: Cwick da button bewow to downwoad da modew fwom
+  object_detection.processing_error: Ewwow whiwe pwocessing vehicwe data
+  object_detection.screen_capture_profile: 'Object Detection is using scween captuwe
+    pwofiwe: {0}'
+  object_detection.settings.1.description: Dase settings wiww affect da quawity and
+    pewfowmance of da object detection.
+  object_detection.settings.1.title: Object Detection Settings
+  object_detection.settings.2.description: Da device to wun Object Detection on, if
+    yu use automatic, it wiww be decided based on yuw system. (If yu sewect GPU, and
+    yu dont have one, ow CUDA isn't instawwed, it wiww defauwt to CPU.)
+  object_detection.settings.2.name: Device
+  object_detection.settings.3.description: Da object detection mode yu want to use.
+    Pwease nute that quawity mode wequiwes a powewfuw PC to wun weww.
+  object_detection.settings.3.name: Mode
+  object_detection.settings.4.description: Da wefwesh wate of da YOWO modew. Highew
+    vawues wiww update detections fastew. In pewfowmance mode this is FPS, quawity
+    mode it's fwames between detections. Pwease nute that vawues above 2 fow pewfowmance
+    mode might nut wowk as expected.
+  object_detection.settings.4.name: YOWO Speed
+  object_detection.settings.5.description: Da modew awchitectuwe yu want to use. Pwease
+    nute that YowoV7 needs mowe powew.
+  object_detection.settings.5.name: Modew awchitectuwe
+  object_detection.settings.6.description: What pawt of yuw scween to use fow object
+    detection. Index 0 is X, index 1 is Y, index 2 is Width, index 3 is Height. This
+    setting wiww be automaticawwy genewate aftew yu stawt da pwugin once.
+  object_detection.settings.6.name: Scween Captuwe Dimensions
+  object_detection.tracking_failed: Twacking faiwed fow {0} with confidence {1}
+  please_enable_the_plugin.description: This pwugin is disabwed. Enabwe it to access
+    da west of this pwugin's settings.
+  please_enable_the_plugin.title: Pwease enabwe da pwugin.
+  plugin.datacollectionendtoenddriving: Data Cowwection End-To-End Dwiving
+  plugin.datacollectionendtoenddriving.description: This pwugins sends anunymous dwiving
+    data fow ouw end-to-end dwiving modew. Aww da cowwected data wiww be open souwce.
+  plugin.hud: HUD
+  plugin.hud.description: Cweates a heads up dispway on da windshiewd. Needs da AW
+    pwugin to wowk.
+  plugin.navigationsockets: Navigation Sockets
+  plugin.navigationsockets.description: Pwovides a socket connection to tmudge's navigation
+    map.
+  plugin.visualizationsockets: Visuawization Sockets
+  plugin.visualizationsockets.description: Unity visuawization socket connection.
+  plugin_enabled: Pwugin enabwed
+  plugins.adaptivecruisecontrol: Adaptive Cwuise Contwow
+  plugins.adaptivecruisecontrol.description: Wiww swow down fow vehicwes in fwont
+    (if an object detection modew is enabwed). Wiww awso swow down fow tuwns (if a
+    pwugin expowting this infowmation is enabwed).
+  plugins.ar: AW (Augmented Weawity)
+  plugins.ar.description: Ovewways data on top of da game scween. Suppowts aww pwugins
+    tagged with 'AW' (cwick da tag on da wight). Stiww in devewopment.
+  plugins.cruisecontrol: Cwuise Contwow
+  plugins.cruisecontrol.description: Use da In-Game cwuise contwow to contwow speed
+    and keep distance between vehicwes in fwont. Can't wowk with ACC pwugin!
+  plugins.datacollection: Data Cowwection
+  plugins.datacollection.description: Data cowwection fow vehicwe detection pwugin.
+  plugins.depthprediction: Depth Pwediction
+  plugins.depthprediction.description: Pwovides depth pwediction fow object avoidance,
+    pwease nute that this pwugin may onwy wowk on NVIDIA gwaphics cawds, due to da
+    sheew pewfowmance wequiwements.
+  plugins.discordrichpresence: Discowd Wich Pwesence
+  plugins.discordrichpresence.description: Discowd Wich Pwesence fow ETS2WA
+  plugins.map: Map
+  plugins.map.description: Map detection pwugin.
+  plugins.microcontrollercontrol: Micwocontwowwew Contwow
+  plugins.microcontrollercontrol.description: Awwows yu to contwow ETS2WA and ETS2
+    fwom a micwocontwowwew (Made fow button boxes)
+  plugins.navigationdetection: Navigation Detection
+  plugins.navigationdetection.description: Uses da in-game woute advisow to fowwow
+    da sewected woute.
+  plugins.objectdetection: Object Detection
+  plugins.objectdetection.description: Detects vawious objects using computew vision
+    and can dispway dam in an output window and 3D visuawization.
+  plugins.raycastingtest: Waycasting Test
+  plugins.raycastingtest.description: A test pwugin fow waycasting. Wiww waycast to
+    yuw mouse position.
+  plugins.sockets: Sockets
+  plugins.sockets.description: Pwugin to make a data socket avaiwabwe mainwy fow da
+    buiwt in visuawisation.
+  plugins.trafficlightdetection: Twaffic Wight Detection
+  plugins.trafficlightdetection.description: Detects twaffic wights using computew
+    vision and can dispway dam in an output window. It communicates with da CwuiseContwow
+    pwugin to stop da twuck at wed twaffic wights.
+  plugins.truckstats: Twuck Stats
+  plugins.truckstats.description: This pwugin shows some statistics about da twuck,
+    woute and da game.
+  runner.could_not_import: Couwd nut impowt pwugin {0}
+  runner.could_not_load_module: Couwd nut woad moduwe {0}
+  runner.error_calling_function: Ewwow whiwe cawwing function {0} in {1}
+  runner.initialize_error: Ewwow whiwe wunning Initiawize() fow {0}
+  runner.plugin_crash: Pwugin {0} haz cwashed.
+  sdk_install.description: Check that yu have da necessawy DWWs instawwed fow us to
+    communicate with da game.
+  sdk_install.games: 'We found da fowwowing games on yuw system:'
+  sdk_install.install: Instaww SDKs
+  sdk_install.install_description: This button wiww instaww da SDKs fow aww da games
+    wisted above. It might take some time to wefwesh da page aftew da instawwation
+    is compwete.
+  sdk_install.installed: '- Instawwed'
+  sdk_install.no_games: We couwd nut find any SCS games on yuw system. Pwease nute
+    that ETS2WA wiww onwy wowk with wegitimate vewsions downwoaded fwom Steam.
+  sdk_install.not_installed: '- Not Instawwed'
+  sdk_install.title: SDK Setup
+  sdk_install.uninstall: Uninstaww SDKs
+  sdk_install.uninstall_description: This button wiww uninstaww da SDKs fow aww da
+    games wisted above. It might take some time to wefwesh da page aftew da uninstawwation
+    is compwete.
+  search: Seawch
+  set: Set
+  setting: Setting...
+  sounds.invalid_file_type: Soundpack '{0}' haz an invawid fiwe type '{1}'
+  sounds.missing_sound: Soundpack '{0}' is missing da wequiwed sound '{1}'
+  sounds.sound_not_found_in_soundpack: Twied to pway sound '{0}', but it was nut found
+    in soundpack '{1}'
+  submit: Submit
+  success: Success
+  tutorials.main.settings: Fow nuw yu shouwd head to da settings page!
+  tutorials.main.sidebar: Yu can easiwy navigate da diffewent app pages using da sidebaw.
+    Some of dam have mowe tips to hewp yu get used to da app!
+  tutorials.main.sidebar_collapse: Yu can cwick on da side of da sidebaw to cowwapse
+    it and go into "fuwwscween" mode.
+  tutorials.main.slide_area: Yu can move da window awound by dwagging this awea.
+  tutorials.main.window_controls: Dase awe da window contwows. Da weft most button
+    contwows some extwa options. Hovew ovew it to see a toowtip! (aftew da onboawding)
+  tutorials.plugins.clear: Use this button to wemove aww cuwwent seawch options.
+  tutorials.plugins.enable_all: Yu can enabwe/disabwe aww da cuwwentwy visibwe pwugins
+    by cwicking this checkbox.
+  tutorials.plugins.list: To get stawted yu can enabwe evewything but da "Data Cowwection
+    End-To-End Dwiving" and "Navigation Detection" pwugins.
+  tutorials.plugins.options: Yu can use da seawch options to easiwy find what yu awe
+    wooking fow.
+  tutorials.plugins.tags: By defauwt da Base tag is sewected. Yu can add mowe sewections
+    by cwicking on da tags in da pwugin wist ow by opening da dwopdown hewe.
+  tutorials.settings.global: Wight nuw yu can see da Gwobaw settings. Dase incwude
+    UI settings and odaw miscewwaneous settings wequiwed by da app at some point.
+  tutorials.settings.plugin: This is a wist of aww da pwugins that have settings pages.
+    Yu can cwick on any of dam to change settings on a pew-pwugin basis.
+  tutorials.settings.sdk: As da finaw step yu shouwd open da SDK settings page, and
+    instaww da SDK if yu haven't awweady. Pwease nute that if yu'we coming fwom V1,
+    yu shouwd weinstaww da SDK on this page.
+  tutorials.settings.static: Hewe yu can see da settings that awe needed by da entiwe
+    app.
+  uninstall: Uninstaww
+  unknown: Unknuwn
+  webpage.opened: ETS2WA UI opened.
+  webpage.ui_loading: Pwease wait whiwe we initiawize da usew intewface
+  webserver.disabling_plugin: Disabwing pwugin {0}
+  webserver.enabling_plugin: Enabwing pwugin {0}
+  webserver.frontend_started: Fwontend stawted on {0} ( {1} )
+  webserver.webserver_started: Websewvew stawted on {0} ( {1} )
+  'yes': 'Yes'
