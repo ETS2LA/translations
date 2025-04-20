@@ -391,6 +391,8 @@ Translations:
   object_detection.settings.6.name: "Screen Capture Dimensions"
   object_detection.settings.6.description: "What part of your screen to use for object detection. Index 0 is X, index 1 is Y, index 2 is Width, index 3 is Height. This setting will be automatically generate after you start the plugin once."
   acc.settings.tab.acc.name: "Adaptive Cruise Control"
+  acc.settings.ignore_traffic_lights.name: "Ignore Traffic Lights"
+  acc.settings.ignore_traffic_lights.description: "Ignore traffic lights when driving. Proceed while the traffic light is red. (Recommended for use with ATS and mod maps.)"
   acc.settings.aggressiveness.name: "Aggressiveness"
   acc.settings.aggressiveness.description: "How aggressively the truck will accelerate and decelerate."
   acc.settings.following_distance.name: "Following Distance"
