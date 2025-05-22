@@ -3,7 +3,7 @@ Language:
   # ^ The name of the language in its own language. Example: "Suomi"
   name_en: "Portuguese"
   # ^ The name of the language in English. Example: "Finnish"
-  iso_code: "pt-BR"
+  iso_code: "pt"
   # ^ The ISO 639-1 code for the language. Example: "fi"
   credits: "Você está usando a tradução oficial para o português."
   # ^ The credits for the language show in the UI.
