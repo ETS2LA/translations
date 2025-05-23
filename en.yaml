@@ -472,6 +472,23 @@ Translations:
 
   # MARK: Plugin keys
 
+  tts.map.enabled: "Map steering enabled."
+  tts.map.disabled: "Map steering disabled"
+  tts.acc.enabled: "Adaptive Cruise Control enabled."
+  tts.acc.disabled: "Adaptive Cruise Control disabled."
+  tts.closest.city: "Closest city is now {0} at a distance of {1} kilometers."
+  tts.speed.limit: "Speedlimit changed to {0} kilometers per hour."
+  tts.fuel.low_range: "Fuel range is now only {0} kilometers, please refuel soon."
+  tts.fuel.critical_range: "Fuel range is now critical at only {0} kilometers, please refuel soon."
+  tts.route.distance: "It's {0} kilometers to the next waypoint."
+  tts.damage.engine: "Engine damage is now at {0}%."
+  tts.damage.cabin: "Cabin damage is now at {0}%."
+  tts.damage.chassis: "Chassis damage is now at {0}%."
+  tts.damage.transmission: "Transmission damage is now at {0}%."
+  tts.damage.wheels: "Wheels damage is now at {0}%."
+  tts.damage.cargo: "Cargo damage is now at {0}%."
+  tts.status: "Speed {0} kilometers per hour, limit {1}, fuel {2}%, and it's {3} kilometers to the next waypoint."
+
   map.json_not_found: "No JSON files found in the GameData folder, please unpack the GameData.zip file."
   map.loading.preparing: "Map preparing to load data..."
   map.loading.nodes: "Map Loading nodes..."
