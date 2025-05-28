@@ -486,6 +486,23 @@ Translations:
 
   # MARK: Plugin keys
 
+  tts.map.enabled: "地图导航已启用。"
+  tts.map.disabled: "地图导航已禁用。"
+  tts.acc.enabled: "自适应巡航控制已启用。"
+  tts.acc.disabled: "自适应巡航控制已禁用。"
+  tts.closest.city: "最近的城市现在是{0}，距离{1}公里。"
+  tts.speed.limit: "已将限速更改为每小时 {0} 公里。"
+  tts.fuel.low_range: "目前燃料续航里程仅为 {0}公里，请尽快加油。"
+  tts.fuel.critical_range: "目前燃料续航能力仅剩{0}公里，请尽快加油。"
+  tts.route.distance: "距离下一个导航点还有 {0} 公里。"
+  tts.damage.engine: "发动机损伤现在为 {0}%。"
+  tts.damage.cabin: "驾驶舱损伤现在为 {0}%。"
+  tts.damage.chassis: "底盘损伤现在为 {0}%。"
+  tts.damage.transmission: "传动系统损伤现在为 {0}%。"
+  tts.damage.wheels: "轮胎损伤现在为 {0}%。"
+  tts.damage.cargo: "货物损伤现在为 {0}%。"
+  tts.status: "时速{0}公里，限速{1}，燃料{2}%，距离下一个航点{3}公里。"
+
   map.json_not_found: "在 GameData 文件夹中找不到 json 文件，请解压缩 GameData.zip 文件。"
   map.loading.preparing: "地图正在准备加载数据..."
   map.loading.nodes: "地图加载数据点..."
