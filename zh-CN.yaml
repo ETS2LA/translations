@@ -403,6 +403,8 @@ Translations:
   object_detection.settings.6.name: "屏幕捕捉尺寸"
   object_detection.settings.6.description: "用于物体检测的屏幕部分。位置 0 是 X，位置 1 是 Y，位置 2 是宽度，位置 3 是高度。此设置将在您首次启动插件后自动设置。"
   acc.settings.tab.acc.name: "主动巡航控制 (ACC)"
+  acc.settings.ignore_speed_limit.name: "忽略限速"
+  acc.settings.ignore_speed_limit.description: "行驶时忽略限速。可能会导致事故，请自行承担风险。"
   acc.settings.ignore_traffic_lights.name: "忽略红绿灯"
   acc.settings.ignore_traffic_lights.description: "在红灯时继续行驶。（推荐在ATS和模组地图使用）"
   acc.settings.aggressiveness.name: "激进级别"

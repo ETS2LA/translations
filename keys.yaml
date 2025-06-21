@@ -318,6 +318,8 @@
 - acc.settings.tab.acc.name
 - acc.settings.ignore_traffic_lights.name
 - acc.settings.ignore_traffic_lights.description
+- acc.settings.ignore_speed_limit.name
+- acc.settings.ignore_speed_limit.description
 - acc.settings.aggressiveness.name
 - acc.settings.aggressiveness.description
 - acc.settings.following_distance.name
