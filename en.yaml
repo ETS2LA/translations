@@ -397,6 +397,8 @@ Translations:
   acc.settings.tab.acc.name: "Adaptive Cruise Control"
   acc.settings.ignore_traffic_lights.name: "Ignore Traffic Lights"
   acc.settings.ignore_traffic_lights.description: "Ignore traffic lights when driving. Proceed while the traffic light is red. (Recommended for use with ATS and mod maps.)"
+  acc.settings.ignore_speed_limit.name: "Ignore Speed Limit"
+  acc.settings.ignore_speed_limit.description: "Ignore speed limits when driving. COULD cause accidents, use at your own risk."
   acc.settings.aggressiveness.name: "Aggressiveness"
   acc.settings.aggressiveness.description: "How aggressively the truck will accelerate and decelerate."
   acc.settings.following_distance.name: "Following Distance"
