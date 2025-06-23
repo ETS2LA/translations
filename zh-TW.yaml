@@ -402,6 +402,8 @@ Translations:
   acc.settings.tab.acc.name: "主動式巡航控制"
   acc.settings.ignore_traffic_lights.name: "忽略紅綠燈"
   acc.settings.ignore_traffic_lights.description: "駕駛時無視紅綠燈。即使紅燈也可直接通行。（建議搭配 ATS 及模組地圖使用。）"
+  acc.settings.ignore_speed_limit.name: "忽略速限"
+  acc.settings.ignore_speed_limit.description: "駕駛時忽略速限。**可能**導致事故，請自行承擔風險使用。"
   acc.settings.aggressiveness.name: "加速與減速反應"
   acc.settings.aggressiveness.description: "卡車加速與減速的反應程度。"
   acc.settings.following_distance.name: "跟車距離"
