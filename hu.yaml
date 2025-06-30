@@ -490,34 +490,26 @@ Translations:
   hud.settings.draw_wheel_paths.name: "Keréknyomvonalak rajzolása" # "Draw Wheel Paths"
   hud.settings.draw_wheel_paths.description: "A keréknyomvonalak rajzolása a HUD-on." # "Draw the wheel paths on the HUD."
   data_collection_end_to_end_driving.title: "Adatgyűjtés végponttól-végpontig történő vezetéshez" # "Data Collection End-To-End Driving"
-  data_collection_end_to_end_driving.description: "Ez a bővítmény névtelen vezetési adatokat küld a végponttól végpontig tartó vezetési modellünkhöz. 
-Az összes gyűjtött adat nyílt forráskódú lesz a Hugging Face-en." # "This plugins sends anonymous driving data for our end-to-end driving model. 
-All the collected data will be available open source on Hugging Face."
+  data_collection_end_to_end_driving.description: "Ez a bővítmény névtelen vezetési adatokat küld a végponttól végpontig tartó vezetési modellünkhöz. Az összes gyűjtött adat nyílt forráskódú lesz a Hugging Face-en." # "This plugins sends anonymous driving data for our end-to-end driving model. All the collected data will be available open source on Hugging Face."
   data_collection_end_to_end_driving.link: "-> Aktuális adatkészletek megtekintése a Huggingface-en" # "-> View current datasets on Huggingface"
   data_collection_end_to_end_driving.tab.notice: "Értesítés" # "Notice"
   data_collection_end_to_end_driving.subtitle: "Ez a bővítmény nem szükséges az ETS2LA működéséhez. Bármikor letilthatja!" # "This plugin is not required for ETS2LA to work. You can disable it at any time!"
   data_collection_end_to_end_driving.what_we_send: "Mit küldünk:" # "What we send:"
-  data_collection_end_to_end_driving.what_we_send.description: "• Képek a játékablakról, és csak a játékablakról.
-• Olyan adatok, mint a jelenlegi kormányzási szög vagy a haladási sebesség." # "• Images of your game window, and only your game window.
+  data_collection_end_to_end_driving.what_we_send.description: "• Képek a játékablakról, és csak a játékablakról. • Olyan adatok, mint a jelenlegi kormányzási szög vagy a haladási sebesség." # "• Images of your game window, and only your game window. • Data such as the current steering angle or driving speed."
   data_collection_end_to_end_driving.what_you_should_know: 'Amit tudnia kell:' # 'What you should know:'
-  data_collection_end_to_end_driving.what_you_should_know.description: "• A bővítmény szünetelteti az adatgyűjtést, amikor Ön nem aktívan játszik.
-• A bővítmény rögzíti a játékablak feletti átfedéseket, mint például a Discord hangcsatorna átfedését!
-• Az azonosítóval nem kerülnek mentésre személyes adatok." # "• The plugin will pause the capture of data when you are not actively playing the game.
+  data_collection_end_to_end_driving.what_you_should_know.description: "• A bővítmény szünetelteti az adatgyűjtést, amikor Ön nem aktívan játszik. • A bővítmény rögzíti a játékablak feletti átfedéseket, mint például a Discord hangcsatorna átfedését! • Az azonosítóval nem kerülnek mentésre személyes adatok." # "• The plugin will pause the capture of data when you are not actively playing the game. • The plugin will capture overlays on top of the game window such as Discord voice channel overlay! • No personal data is saved with the identifier."
   data_collection_end_to_end_driving.what_you_can_do: "Mit tehet:" # "What you can do:"
-  data_collection_end_to_end_driving.what_you_can_do.description: "• 7 napja van az adatok törlésére, mielőtt feltöltésre kerülnek a szerverünkre.
-• Ha az adatok már a szerveren vannak, akkor is törölheti őket, amíg rendelkezik az adatok feltöltéséhez használt azonosítóval." # "• You have 7 days to delete the data before it will be uploaded to our server.
+  data_collection_end_to_end_driving.what_you_can_do.description: "• 7 napja van az adatok törlésére, mielőtt feltöltésre kerülnek a szerverünkre. • Ha az adatok már a szerveren vannak, akkor is törölheti őket, amíg rendelkezik az adatok feltöltéséhez használt azonosítóval." # "• You have 7 days to delete the data before it will be uploaded to our server. • If the data is already on the server, you can still delete it as long as you have the identifier that was used to upload the data."
   data_collection_end_to_end_driving.where_the_data_is_saved: "Hol kerülnek mentésre az adatok:" # "Where the data is saved:"
   data_collection_end_to_end_driving.your_current_id: "Jelenlegi azonosítója:" # "Your current ID:"
   data_collection_end_to_end_driving.manual_deletion: "Kézi törlés:" # "Manual deletion:"
-  data_collection_end_to_end_driving.manual_deletion.description: "• Az adatok törlését a következő URL böngészőben történő megnyitásával kérheti:
-
-  data_collection_end_to_end_driving.i_read_the_notice: "Elolvastam a közleményt, és szeretnék segíteni az adatgyűjtésben" # "I read the notice and I want to help with the data collection"
+  data_collection_end_to_end_driving.manual_deletion.description: "• Az adatok törlését a következő URL böngészőben történő megnyitásával kérheti: https://example.com/delete" # "• You can request deletion of data by opening the following URL in your browser: https://example.com/delete"
   data_collection_end_to_end_driving.tab.control_your_data: "Adatok vezérlése" # "Control your Data"
   data_collection_end_to_end_driving.delete_data_on_pc.name: "Az összegyűjtött, még fel nem töltött adatok törlése" # "Delete collected, not yet uploaded data"
   data_collection_end_to_end_driving.delete_data_on_pc.description: "Ez törli az összes olyan adatot, amelyet a bővítmény gyűjtött, de még nem töltött fel a szerverre." # "This will delete all the data that was collected by the plugin but not yet uploaded to the server."
   data_collection_end_to_end_driving.delete_data_on_server.name: "A már feltöltött adatok törlése" # "Delete already uploaded data"
-  data_collection_end_to_end_driving.delete_data_on_server.description: "Ez törli az összes olyan adatot, amelyet a bővítmény gyűjtött és már feltöltött a szerverre.
-Nem lehetséges az összes adat törlése, ha az adat-azonosító valamikor elveszett és újra cserélődött." # "This will delete all the data that was collected by the plugin and already uploaded to the server.
+  data_collection_end_to_end_driving.delete_data_on_server.description: "Ez törli az összes olyan adatot, amelyet a bővítmény gyűjtött és már feltöltött a szerverre. Nem lehetséges az összes adat törlése, ha az adat-azonosító valamikor elveszett és újra cserélődött."
+  # ^ "This will delete all the data that was collected by the plugin and already uploaded to the server. It's not possible to delete all data if the data-identifier was ever lost and re-generated."
   data_collection_end_to_end_driving.server_code_link.description: "A szerver kódja a https://github.com/ETS2LA/cdn címen található" # "Server code can be found at https://github.com/ETS2LA/cdn"
   tts.map.enabled: "Térkép kormányzás engedélyezve." # "Map steering enabled."
   tts.map.disabled: "Térkép kormányzás letiltva." # "Map steering disabled"
